@@ -1,0 +1,2 @@
+streamlit
+oopenai>=1.0.0
